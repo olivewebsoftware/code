@@ -1,0 +1,21 @@
+How to use Online Code Editor:
+
+Tips:
+You cannot save your work directly from the website!
+
+Once you reload, exit, or navigate away from the page the textarea is cleared!
+
+Any programming lang can be used on this editor, it is not specific to one!
+
+This editor does not have any sort of autofill on it so you cannot blame the
+editor if something doesn't work. Maybe you forgot a semicolon?
+
+
+
+How to use:
+
+It's pretty simple! Start typing on the textarea.
+
+The help and about buttons are there if you need to
+refer to the tips above or about if you want to see
+the credits of the creator.
