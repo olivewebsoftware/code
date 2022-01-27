@@ -7,8 +7,4 @@ Created by: Max Schindler
 OliveWeb Website:
 olivewebsoftware.github.io/oliveweb
 
-This website was created as a resource for the
-Coding Club at Barry and June Gunderson Middle School
-in Las Vegas, Nevada.
-
-Also, I used a school Chromebook to make this.
+Now available on the Olive OS S app store!
